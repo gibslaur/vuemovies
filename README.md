@@ -1,24 +1,3 @@
 # vue-movie-tb
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+A simple movie app made with Vue.js/HTML/CSS. Orginally made as mobile-only, based on tutorial by Tyler Potts, then customized/made responsive.
